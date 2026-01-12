@@ -1,0 +1,290 @@
+The universe is approximately 13.8 billion years old.
+The observable universe is about 93 billion light-years in diameter.
+A light-year is the distance light travels in one year, approximately 9.46 trillion kilometers.
+Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.
+The Sun accounts for 99.86 percent of the mass in our solar system.
+The Sun converts 4 million tons of matter into energy every second.
+The Sun's core temperature is approximately 15 million degrees Celsius.
+The Sun will become a red giant in about 5 billion years.
+The Sun rotates once every 27 days at its equator.
+The Sun is about 4.6 billion years old.
+Mercury is the smallest planet in our solar system with a diameter of 4,879 kilometers.
+Mercury has no atmosphere to retain heat, causing temperature swings of 600 degrees Celsius.
+Mercury takes 88 Earth days to orbit the Sun.
+A day on Mercury lasts 176 Earth days.
+Mercury has no moons orbiting it.
+Venus is the hottest planet in our solar system with surface temperatures of 462 degrees Celsius.
+Venus rotates so slowly that its day is longer than its year.
+Venus rotates backwards compared to most planets in the solar system.
+Venus takes 243 Earth days to complete one rotation.
+Venus takes 225 Earth days to orbit the Sun.
+Venus has no moons orbiting it.
+Venus has over 1,600 volcanoes, more than any other planet.
+The atmosphere of Venus is 96 percent carbon dioxide.
+Atmospheric pressure on Venus is 92 times that of Earth.
+Earth is the only known planet with liquid water on its surface.
+Earth's atmosphere is 78 percent nitrogen and 21 percent oxygen.
+Earth orbits the Sun at an average speed of 107,000 kilometers per hour.
+Earth takes 365.25 days to orbit the Sun.
+Earth rotates once every 23 hours and 56 minutes.
+Earth's axis is tilted at 23.5 degrees, causing seasons.
+Earth has one natural satellite, the Moon.
+The Moon is moving away from Earth at a rate of 3.8 centimeters per year.
+The Moon's gravity causes tides on Earth.
+The Moon has no atmosphere or magnetic field.
+The same side of the Moon always faces Earth due to tidal locking.
+The Moon takes 27.3 days to orbit Earth.
+The Moon's surface temperature ranges from -173 to 127 degrees Celsius.
+Mars is called the Red Planet because of iron oxide on its surface.
+Mars has the largest volcano in the solar system, Olympus Mons, which is 21 kilometers high.
+Mars has the longest canyon in the solar system, Valles Marineris, stretching 4,000 kilometers.
+Mars takes 687 Earth days to orbit the Sun.
+A day on Mars lasts 24 hours and 37 minutes.
+Mars has two moons, Phobos and Deimos.
+Mars has ice caps at both poles made of water ice and frozen carbon dioxide.
+Mars has seasons like Earth but they last twice as long.
+The atmosphere of Mars is 95 percent carbon dioxide.
+Atmospheric pressure on Mars is less than 1 percent of Earth's.
+Evidence suggests Mars once had liquid water on its surface.
+Jupiter is the largest planet in our solar system.
+Jupiter's mass is 2.5 times greater than all other planets combined.
+Jupiter completes one rotation in just under 10 hours.
+Jupiter takes 12 Earth years to orbit the Sun.
+Jupiter has at least 95 known moons.
+Jupiter's moon Ganymede is larger than the planet Mercury.
+Jupiter's moon Europa may have a subsurface ocean that could harbor life.
+Jupiter's Great Red Spot is a storm that has been raging for at least 400 years.
+The Great Red Spot is large enough to fit three Earths inside it.
+Jupiter has faint rings discovered by Voyager 1 in 1979.
+Jupiter's magnetic field is 20,000 times stronger than Earth's.
+Jupiter emits more energy than it receives from the Sun.
+Saturn is the second largest planet in our solar system.
+Saturn is famous for its extensive ring system.
+Saturn's rings span up to 282,000 kilometers but are only 10 meters thick in some places.
+Saturn's rings are made of billions of particles of ice and rock.
+Saturn could float in water because its density is less than water's density.
+Saturn takes 29 Earth years to orbit the Sun.
+Saturn rotates once every 10 hours and 33 minutes.
+Saturn has at least 146 known moons.
+Saturn's moon Titan has a thick atmosphere and liquid methane lakes.
+Saturn's moon Enceladus has geysers that shoot water into space.
+Saturn has the fastest winds of any planet, reaching 1,800 kilometers per hour.
+Uranus rotates on its side at a 98-degree angle to its orbital plane.
+Uranus appears blue-green due to methane in its atmosphere.
+Uranus takes 84 Earth years to orbit the Sun.
+Uranus rotates once every 17 hours and 14 minutes.
+Uranus has 27 known moons, all named after Shakespeare and Alexander Pope characters.
+Uranus has 13 known rings that are much fainter than Saturn's.
+Uranus was the first planet discovered using a telescope in 1781.
+Neptune is the eighth and farthest planet from the Sun.
+Neptune appears blue because methane in its atmosphere absorbs red light.
+Neptune takes 165 Earth years to orbit the Sun.
+Neptune rotates once every 16 hours and 6 minutes.
+Neptune has 16 known moons.
+Neptune's moon Triton orbits backwards compared to the planet's rotation.
+Neptune has winds that reach speeds of 2,000 kilometers per hour.
+Neptune was discovered in 1846 through mathematical predictions.
+Neptune has at least 6 known rings.
+Pluto was reclassified as a dwarf planet in 2006.
+Pluto takes 248 Earth years to orbit the Sun.
+Pluto has five known moons, with Charon being the largest.
+Pluto's largest moon Charon is so large that Pluto and Charon orbit a common center of mass.
+The asteroid belt is located between Mars and Jupiter.
+The asteroid belt contains millions of asteroids.
+Ceres is the largest object in the asteroid belt and is classified as a dwarf planet.
+Most asteroids are composed of rock and metal.
+The Kuiper Belt is a region beyond Neptune containing icy bodies.
+The Kuiper Belt is the source of many short-period comets.
+The Oort Cloud is a theoretical spherical cloud of icy objects surrounding the solar system.
+The Oort Cloud may contain trillions of comets.
+Comets are often called "dirty snowballs" because they're made of ice, dust, and rock.
+A comet's tail always points away from the Sun due to solar wind.
+Halley's Comet returns to Earth's vicinity every 75-76 years.
+Meteoroids are small rocky or metallic objects in space.
+Meteors are meteoroids that burn up in Earth's atmosphere, creating shooting stars.
+Meteorites are meteoroids that survive passage through the atmosphere and hit Earth.
+About 48.5 tons of meteoritic material falls on Earth every day.
+The largest meteorite ever found weighs 60 tons and is in Namibia.
+A solar eclipse occurs when the Moon passes between Earth and the Sun.
+A lunar eclipse occurs when Earth passes between the Sun and the Moon.
+Total solar eclipses can last up to 7 minutes and 32 seconds.
+The solar wind is a stream of charged particles flowing from the Sun.
+Solar flares are massive explosions on the Sun's surface.
+Coronal mass ejections from the Sun can disrupt satellites and power grids on Earth.
+The Sun's magnetic field flips every 11 years during the solar cycle.
+Sunspots are cooler, darker regions on the Sun's surface.
+The Sun loses about 4 million tons of mass every second through fusion.
+The Sun will eventually run out of hydrogen fuel in about 5 billion years.
+The Milky Way galaxy is a spiral galaxy containing 200-400 billion stars.
+The Milky Way is about 100,000 light-years in diameter.
+Our solar system is located about 27,000 light-years from the galactic center.
+The Milky Way rotates once every 225-250 million years.
+The Milky Way and Andromeda galaxies are moving toward each other and will collide in about 4.5 billion years.
+There are an estimated 2 trillion galaxies in the observable universe.
+Galaxies can be spiral, elliptical, or irregular in shape.
+The largest known galaxy is IC 1101, spanning about 6 million light-years.
+Galaxy clusters can contain thousands of galaxies.
+The Local Group contains about 80 galaxies including the Milky Way and Andromeda.
+Superclusters are collections of galaxy clusters spanning hundreds of millions of light-years.
+The Great Wall is one of the largest known structures in the universe, spanning 500 million light-years.
+Dark matter makes up about 27 percent of the universe's mass-energy content.
+Dark matter does not emit, absorb, or reflect light.
+Dark matter's existence is inferred from its gravitational effects on visible matter.
+Dark energy makes up about 68 percent of the universe's mass-energy content.
+Dark energy is causing the universe to expand at an accelerating rate.
+The Big Bang theory describes how the universe began from an extremely hot, dense state.
+The cosmic microwave background is radiation left over from the Big Bang.
+The universe has been expanding since the Big Bang 13.8 billion years ago.
+The universe may be infinite in size or it may be finite but unbounded.
+Red shift occurs when light from distant galaxies is stretched as space expands.
+The Doppler effect causes light from objects moving away to shift toward red wavelengths.
+Hubble's Law states that galaxies are moving away from us at speeds proportional to their distance.
+The Hubble constant measures the rate of the universe's expansion.
+Stars form from collapsing clouds of gas and dust called nebulae.
+Protostars are young stars still gathering mass from their surrounding material.
+Main sequence stars fuse hydrogen into helium in their cores.
+The Sun is a main sequence star classified as a G-type yellow dwarf.
+Stars are classified by temperature and luminosity using the Hertzsprung-Russell diagram.
+The hottest stars appear blue while the coolest stars appear red.
+Red giant stars have exhausted hydrogen in their cores and are expanding.
+White dwarf stars are the dense cores left after a star sheds its outer layers.
+A teaspoon of white dwarf material would weigh about 5 tons on Earth.
+Neutron stars are extremely dense remnants of massive stars after supernova explosions.
+A teaspoon of neutron star material would weigh about 1 billion tons on Earth.
+Neutron stars can rotate hundreds of times per second.
+Pulsars are rapidly rotating neutron stars that emit beams of radiation.
+The fastest known pulsar rotates 716 times per second.
+Black holes are regions of space where gravity is so strong that nothing can escape.
+The event horizon is the boundary around a black hole beyond which nothing can escape.
+Time appears to slow down near a black hole due to extreme gravity.
+Stellar black holes form when massive stars collapse after supernova explosions.
+Supermassive black holes exist at the centers of most galaxies.
+The supermassive black hole at the Milky Way's center is called Sagittarius A*.
+Sagittarius A* has a mass of about 4 million times the Sun's mass.
+The first image of a black hole was captured in 2019 in the galaxy M87.
+Gravitational waves are ripples in spacetime caused by accelerating massive objects.
+Gravitational waves were first detected in 2015 from colliding black holes.
+Supernovae are massive explosions that occur when stars die.
+Type Ia supernovae occur when white dwarf stars explode.
+Type II supernovae occur when massive stars collapse.
+A supernova can briefly outshine an entire galaxy.
+Supernovae create and disperse heavy elements throughout the universe.
+Many elements in our bodies were created in supernova explosions.
+The closest star to our solar system is Proxima Centauri at 4.24 light-years away.
+Alpha Centauri is a triple star system containing Proxima Centauri.
+Sirius is the brightest star visible from Earth.
+Betelgeuse is a red supergiant star that may explode as a supernova soon.
+Betelgeuse is about 700 times larger than the Sun.
+The North Star, Polaris, is located almost directly above Earth's North Pole.
+Binary star systems contain two stars orbiting a common center of mass.
+About half of all stars exist in binary or multiple star systems.
+Exoplanets are planets that orbit stars other than the Sun.
+Over 5,000 exoplanets have been confirmed as of 2024.
+The first exoplanet orbiting a Sun-like star was discovered in 1995.
+Hot Jupiters are gas giant exoplanets that orbit very close to their stars.
+Super-Earths are rocky exoplanets larger than Earth but smaller than Neptune.
+The habitable zone is the region around a star where liquid water could exist.
+Some exoplanets orbit in the habitable zones of their stars.
+The Kepler Space Telescope discovered thousands of exoplanets.
+The James Webb Space Telescope can analyze exoplanet atmospheres.
+Some exoplanets may have conditions suitable for life as we know it.
+The Drake Equation estimates the number of communicable civilizations in the galaxy.
+The Fermi Paradox questions why we haven't detected alien civilizations yet.
+SETI is the search for extraterrestrial intelligence through radio signals.
+The Voyager 1 spacecraft is the farthest human-made object from Earth.
+Voyager 1 has traveled over 24 billion kilometers from Earth.
+Voyager 1 entered interstellar space in 2012.
+The Voyager spacecraft carry golden records with sounds and images from Earth.
+The Apollo 11 mission landed the first humans on the Moon in 1969.
+Twelve humans have walked on the Moon between 1969 and 1972.
+The International Space Station orbits Earth at about 408 kilometers altitude.
+The International Space Station travels at 28,000 kilometers per hour.
+Astronauts on the ISS see 16 sunrises and sunsets every day.
+The Hubble Space Telescope has been operating since 1990.
+The Hubble Space Telescope orbits Earth every 95 minutes.
+The James Webb Space Telescope launched in 2021 and observes in infrared.
+The James Webb Space Telescope is positioned 1.5 million kilometers from Earth.
+Mars rovers have been exploring the Martian surface since 1997.
+The Curiosity rover has been operating on Mars since 2012.
+The Perseverance rover is searching for signs of ancient life on Mars.
+The Ingenuity helicopter became the first aircraft to fly on another planet in 2021.
+SpaceX's Falcon 9 is the first orbital-class reusable rocket.
+The speed needed to escape Earth's gravity is 11.2 kilometers per second.
+Astronauts experience microgravity, not zero gravity, in orbit.
+Prolonged spaceflight causes bone and muscle loss in astronauts.
+Cosmic rays are high-energy particles from space that can damage DNA.
+Space is not completely empty but contains about 1 atom per cubic centimeter.
+The temperature of empty space is about 2.7 Kelvin or -270 degrees Celsius.
+Sound cannot travel through the vacuum of space.
+Spacesuits provide oxygen, pressure, and temperature control for astronauts.
+A spacesuit weighs about 130 kilograms on Earth but is weightless in orbit.
+Astronauts can grow up to 5 centimeters taller in space due to spinal expansion.
+The longest single spaceflight lasted 437 days by Valeri Polyakov.
+The youngest person in space was 25-year-old Gherman Titov in 1961.
+The oldest person in space was 77-year-old John Glenn in 1998.
+Over 600 people have traveled to space as of 2024.
+Yuri Gagarin became the first human in space on April 12, 1961.
+The first woman in space was Valentina Tereshkova in 1963.
+The first spacewalk was performed by Alexei Leonov in 1965.
+The longest spacewalk lasted 8 hours and 56 minutes.
+Space debris includes defunct satellites and fragments from collisions.
+There are over 34,000 pieces of space debris larger than 10 centimeters orbiting Earth.
+Space debris travels at speeds up to 28,000 kilometers per hour.
+A piece of space debris smaller than 1 centimeter can damage a spacecraft.
+The Kessler Syndrome describes a cascade of collisions creating more space debris.
+Asteroids have struck Earth throughout history, including the one that killed the dinosaurs.
+The Chicxulub impactor that killed the dinosaurs was about 10 kilometers wide.
+Near-Earth asteroids are tracked to assess potential collision threats.
+NASA's DART mission successfully changed an asteroid's orbit in 2022.
+The Tunguska event in 1908 was likely caused by an asteroid or comet exploding in the atmosphere.
+Meteor showers occur when Earth passes through debris left by comets.
+The Perseid meteor shower occurs every August from debris of comet Swift-Tuttle.
+Zodiacal light is sunlight scattered by dust particles in the solar system.
+Auroras are created when solar wind particles collide with Earth's magnetic field.
+The Northern Lights are called Aurora Borealis.
+The Southern Lights are called Aurora Australis.
+Auroras occur at altitudes between 100 and 400 kilometers.
+Auroras can appear in various colors depending on which atmospheric gases are excited.
+Green auroras are caused by oxygen at lower altitudes.
+Red auroras are caused by oxygen at higher altitudes.
+The Sun's solar cycle affects the frequency and intensity of auroras.
+Planetary nebulae are shells of gas ejected by dying stars.
+The Ring Nebula is a famous planetary nebula visible from Earth.
+Emission nebulae glow because their gases are energized by nearby stars.
+Reflection nebulae reflect light from nearby stars.
+Dark nebulae block light from objects behind them.
+The Orion Nebula is the closest star-forming region to Earth at 1,344 light-years away.
+The Crab Nebula is the remnant of a supernova observed in 1054 AD.
+Globular clusters are spherical collections of hundreds of thousands of old stars.
+Open clusters are loose groups of young stars.
+The Pleiades is a famous open cluster visible to the naked eye.
+Star clusters form from the same molecular cloud at roughly the same time.
+The universe's expansion was discovered by Edwin Hubble in 1929.
+The cosmic microwave background has a temperature of 2.725 Kelvin.
+Tiny fluctuations in the cosmic microwave background show the seeds of galaxy formation.
+The universe was opaque for the first 380,000 years after the Big Bang.
+The first stars formed about 100-200 million years after the Big Bang.
+Population III stars were the first stars, made only of hydrogen and helium.
+No Population III stars have been observed yet as they all died long ago.
+Quasars are extremely luminous active galactic nuclei powered by supermassive black holes.
+Quasars can be brighter than entire galaxies despite being very distant.
+The most distant quasars are over 13 billion light-years away.
+Gamma-ray bursts are the most energetic explosions in the universe.
+Gamma-ray bursts can release more energy in seconds than the Sun will in its entire lifetime.
+Long gamma-ray bursts are associated with supernova explosions.
+Short gamma-ray bursts are associated with neutron star collisions.
+Gravitational lensing occurs when massive objects bend light from distant sources.
+Einstein predicted gravitational lensing as a consequence of general relativity.
+Gravitational lensing allows astronomers to study distant galaxies and dark matter.
+The multiverse theory suggests our universe may be one of many universes.
+The anthropic principle states that the universe's properties allow for our existence.
+Inflation theory proposes the universe expanded exponentially in its first fraction of a second.
+String theory attempts to unify quantum mechanics and general relativity.
+Time dilation means time passes differently in strong gravitational fields or at high speeds.
+Astronauts age slightly slower than people on Earth due to time dilation.
+The observable universe has a radius of about 46.5 billion light-years.
+We can only observe light from regions of space where light has had time to reach us.
+The universe may extend far beyond what we can observe.
+The ultimate fate of the universe depends on its total mass-energy density.
+The Big Freeze scenario suggests the universe will expand forever, becoming cold and dark.
+The heat death of the universe would occur when all usable energy is exhausted.
