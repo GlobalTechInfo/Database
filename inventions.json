@@ -1,0 +1,1829 @@
+[
+  {
+    "invention": "Telephone",
+    "inventor": "Alexander Graham Bell",
+    "year": 1876,
+    "country": "United States",
+    "category": "Communication"
+  },
+  {
+    "invention": "Light Bulb",
+    "inventor": "Thomas Edison",
+    "year": 1879,
+    "country": "United States",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Airplane",
+    "inventor": "Wright Brothers",
+    "year": 1903,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Printing Press",
+    "inventor": "Johannes Gutenberg",
+    "year": 1440,
+    "country": "Germany",
+    "category": "Communication"
+  },
+  {
+    "invention": "Steam Engine",
+    "inventor": "James Watt",
+    "year": 1769,
+    "country": "Scotland",
+    "category": "Industrial"
+  },
+  {
+    "invention": "Automobile",
+    "inventor": "Karl Benz",
+    "year": 1885,
+    "country": "Germany",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Radio",
+    "inventor": "Guglielmo Marconi",
+    "year": 1895,
+    "country": "Italy",
+    "category": "Communication"
+  },
+  {
+    "invention": "Television",
+    "inventor": "John Logie Baird",
+    "year": 1926,
+    "country": "Scotland",
+    "category": "Communication"
+  },
+  {
+    "invention": "Computer",
+    "inventor": "Charles Babbage",
+    "year": 1837,
+    "country": "England",
+    "category": "Technology"
+  },
+  {
+    "invention": "Internet",
+    "inventor": "Tim Berners-Lee",
+    "year": 1989,
+    "country": "England",
+    "category": "Technology"
+  },
+  {
+    "invention": "Penicillin",
+    "inventor": "Alexander Fleming",
+    "year": 1928,
+    "country": "Scotland",
+    "category": "Medicine"
+  },
+  {
+    "invention": "X-Ray",
+    "inventor": "Wilhelm Röntgen",
+    "year": 1895,
+    "country": "Germany",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Photography",
+    "inventor": "Joseph Nicéphore Niépce",
+    "year": 1826,
+    "country": "France",
+    "category": "Technology"
+  },
+  {
+    "invention": "Microscope",
+    "inventor": "Zacharias Janssen",
+    "year": 1590,
+    "country": "Netherlands",
+    "category": "Science"
+  },
+  {
+    "invention": "Telescope",
+    "inventor": "Hans Lippershey",
+    "year": 1608,
+    "country": "Netherlands",
+    "category": "Science"
+  },
+  {
+    "invention": "Typewriter",
+    "inventor": "Christopher Latham Sholes",
+    "year": 1868,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Sewing Machine",
+    "inventor": "Elias Howe",
+    "year": 1846,
+    "country": "United States",
+    "category": "Industrial"
+  },
+  {
+    "invention": "Dynamite",
+    "inventor": "Alfred Nobel",
+    "year": 1867,
+    "country": "Sweden",
+    "category": "Chemical"
+  },
+  {
+    "invention": "Battery",
+    "inventor": "Alessandro Volta",
+    "year": 1800,
+    "country": "Italy",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Refrigerator",
+    "inventor": "Carl von Linde",
+    "year": 1876,
+    "country": "Germany",
+    "category": "Household"
+  },
+  {
+    "invention": "Air Conditioning",
+    "inventor": "Willis Carrier",
+    "year": 1902,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Elevator",
+    "inventor": "Elisha Otis",
+    "year": 1853,
+    "country": "United States",
+    "category": "Industrial"
+  },
+  {
+    "invention": "Bicycle",
+    "inventor": "Karl von Drais",
+    "year": 1817,
+    "country": "Germany",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Helicopter",
+    "inventor": "Igor Sikorsky",
+    "year": 1939,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Jet Engine",
+    "inventor": "Frank Whittle",
+    "year": 1937,
+    "country": "England",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Rocket",
+    "inventor": "Robert Goddard",
+    "year": 1926,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Compass",
+    "inventor": "Ancient Chinese",
+    "year": 206,
+    "country": "China",
+    "category": "Navigation"
+  },
+  {
+    "invention": "Paper",
+    "inventor": "Cai Lun",
+    "year": 105,
+    "country": "China",
+    "category": "Communication"
+  },
+  {
+    "invention": "Gunpowder",
+    "inventor": "Ancient Chinese",
+    "year": 850,
+    "country": "China",
+    "category": "Chemical"
+  },
+  {
+    "invention": "Wheel",
+    "inventor": "Ancient Mesopotamians",
+    "year": -3500,
+    "country": "Mesopotamia",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Clock",
+    "inventor": "Peter Henlein",
+    "year": 1510,
+    "country": "Germany",
+    "category": "Technology"
+  },
+  {
+    "invention": "Matches",
+    "inventor": "John Walker",
+    "year": 1826,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Zipper",
+    "inventor": "Whitcomb Judson",
+    "year": 1893,
+    "country": "United States",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Safety Pin",
+    "inventor": "Walter Hunt",
+    "year": 1849,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Barbed Wire",
+    "inventor": "Joseph Glidden",
+    "year": 1874,
+    "country": "United States",
+    "category": "Agricultural"
+  },
+  {
+    "invention": "Velcro",
+    "inventor": "George de Mestral",
+    "year": 1948,
+    "country": "Switzerland",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Plastic",
+    "inventor": "Leo Baekeland",
+    "year": 1907,
+    "country": "Belgium",
+    "category": "Material"
+  },
+  {
+    "invention": "Nylon",
+    "inventor": "Wallace Carothers",
+    "year": 1935,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Rubber Vulcanization",
+    "inventor": "Charles Goodyear",
+    "year": 1839,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Stethoscope",
+    "inventor": "René Laennec",
+    "year": 1816,
+    "country": "France",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Thermometer",
+    "inventor": "Galileo Galilei",
+    "year": 1593,
+    "country": "Italy",
+    "category": "Science"
+  },
+  {
+    "invention": "Barometer",
+    "inventor": "Evangelista Torricelli",
+    "year": 1643,
+    "country": "Italy",
+    "category": "Science"
+  },
+  {
+    "invention": "Vaccination",
+    "inventor": "Edward Jenner",
+    "year": 1796,
+    "country": "England",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Anesthesia",
+    "inventor": "Crawford Long",
+    "year": 1842,
+    "country": "United States",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Aspirin",
+    "inventor": "Felix Hoffmann",
+    "year": 1897,
+    "country": "Germany",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Insulin",
+    "inventor": "Frederick Banting",
+    "year": 1921,
+    "country": "Canada",
+    "category": "Medicine"
+  },
+  {
+    "invention": "Pacemaker",
+    "inventor": "Wilson Greatbatch",
+    "year": 1958,
+    "country": "United States",
+    "category": "Medicine"
+  },
+  {
+    "invention": "MRI Scanner",
+    "inventor": "Raymond Damadian",
+    "year": 1977,
+    "country": "United States",
+    "category": "Medicine"
+  },
+  {
+    "invention": "DNA Structure",
+    "inventor": "James Watson and Francis Crick",
+    "year": 1953,
+    "country": "England",
+    "category": "Science"
+  },
+  {
+    "invention": "Transistor",
+    "inventor": "John Bardeen, Walter Brattain, William Shockley",
+    "year": 1947,
+    "country": "United States",
+    "category": "Electronics"
+  },
+  {
+    "invention": "Integrated Circuit",
+    "inventor": "Jack Kilby",
+    "year": 1958,
+    "country": "United States",
+    "category": "Electronics"
+  },
+  {
+    "invention": "Microprocessor",
+    "inventor": "Ted Hoff",
+    "year": 1971,
+    "country": "United States",
+    "category": "Electronics"
+  },
+  {
+    "invention": "Laser",
+    "inventor": "Theodore Maiman",
+    "year": 1960,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "LED",
+    "inventor": "Nick Holonyak Jr.",
+    "year": 1962,
+    "country": "United States",
+    "category": "Electronics"
+  },
+  {
+    "invention": "Solar Cell",
+    "inventor": "Bell Laboratories",
+    "year": 1954,
+    "country": "United States",
+    "category": "Energy"
+  },
+  {
+    "invention": "Nuclear Reactor",
+    "inventor": "Enrico Fermi",
+    "year": 1942,
+    "country": "United States",
+    "category": "Energy"
+  },
+  {
+    "invention": "Atomic Bomb",
+    "inventor": "J. Robert Oppenheimer (Manhattan Project)",
+    "year": 1945,
+    "country": "United States",
+    "category": "Military"
+  },
+  {
+    "invention": "Radar",
+    "inventor": "Robert Watson-Watt",
+    "year": 1935,
+    "country": "Scotland",
+    "category": "Military"
+  },
+  {
+    "invention": "Sonar",
+    "inventor": "Paul Langevin",
+    "year": 1915,
+    "country": "France",
+    "category": "Military"
+  },
+  {
+    "invention": "Submarine",
+    "inventor": "Cornelis Drebbel",
+    "year": 1620,
+    "country": "Netherlands",
+    "category": "Military"
+  },
+  {
+    "invention": "Tank",
+    "inventor": "Ernest Swinton",
+    "year": 1915,
+    "country": "England",
+    "category": "Military"
+  },
+  {
+    "invention": "Machine Gun",
+    "inventor": "Richard Gatling",
+    "year": 1861,
+    "country": "United States",
+    "category": "Military"
+  },
+  {
+    "invention": "Revolver",
+    "inventor": "Samuel Colt",
+    "year": 1836,
+    "country": "United States",
+    "category": "Military"
+  },
+  {
+    "invention": "Camera",
+    "inventor": "George Eastman",
+    "year": 1888,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Motion Pictures",
+    "inventor": "Thomas Edison",
+    "year": 1891,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Phonograph",
+    "inventor": "Thomas Edison",
+    "year": 1877,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Video Recorder",
+    "inventor": "Charles Ginsburg",
+    "year": 1951,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "CD Player",
+    "inventor": "James Russell",
+    "year": 1965,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "MP3 Player",
+    "inventor": "Karlheinz Brandenburg",
+    "year": 1987,
+    "country": "Germany",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Video Game Console",
+    "inventor": "Ralph Baer",
+    "year": 1972,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Personal Computer",
+    "inventor": "IBM",
+    "year": 1981,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Mouse",
+    "inventor": "Douglas Engelbart",
+    "year": 1964,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Keyboard",
+    "inventor": "Christopher Latham Sholes",
+    "year": 1868,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Laptop",
+    "inventor": "Adam Osborne",
+    "year": 1981,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Tablet Computer",
+    "inventor": "Apple (iPad)",
+    "year": 2010,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Smartphone",
+    "inventor": "IBM (Simon)",
+    "year": 1992,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Touchscreen",
+    "inventor": "E.A. Johnson",
+    "year": 1965,
+    "country": "England",
+    "category": "Technology"
+  },
+  {
+    "invention": "GPS",
+    "inventor": "U.S. Department of Defense",
+    "year": 1973,
+    "country": "United States",
+    "category": "Navigation"
+  },
+  {
+    "invention": "Email",
+    "inventor": "Ray Tomlinson",
+    "year": 1971,
+    "country": "United States",
+    "category": "Communication"
+  },
+  {
+    "invention": "World Wide Web",
+    "inventor": "Tim Berners-Lee",
+    "year": 1989,
+    "country": "England",
+    "category": "Technology"
+  },
+  {
+    "invention": "Search Engine (Google)",
+    "inventor": "Larry Page and Sergey Brin",
+    "year": 1998,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Social Media (Facebook)",
+    "inventor": "Mark Zuckerberg",
+    "year": 2004,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "YouTube",
+    "inventor": "Jawed Karim, Steve Chen, Chad Hurley",
+    "year": 2005,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "WiFi",
+    "inventor": "Vic Hayes",
+    "year": 1997,
+    "country": "Netherlands",
+    "category": "Technology"
+  },
+  {
+    "invention": "Bluetooth",
+    "inventor": "Jaap Haartsen",
+    "year": 1994,
+    "country": "Netherlands",
+    "category": "Technology"
+  },
+  {
+    "invention": "USB",
+    "inventor": "Ajay Bhatt",
+    "year": 1996,
+    "country": "India/United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Fiber Optics",
+    "inventor": "Narinder Singh Kapany",
+    "year": 1954,
+    "country": "India",
+    "category": "Technology"
+  },
+  {
+    "invention": "Satellite",
+    "inventor": "Soviet Union (Sputnik)",
+    "year": 1957,
+    "country": "Soviet Union",
+    "category": "Space"
+  },
+  {
+    "invention": "Space Shuttle",
+    "inventor": "NASA",
+    "year": 1981,
+    "country": "United States",
+    "category": "Space"
+  },
+  {
+    "invention": "Hubble Telescope",
+    "inventor": "NASA",
+    "year": 1990,
+    "country": "United States",
+    "category": "Space"
+  },
+  {
+    "invention": "Moon Landing Vehicle",
+    "inventor": "NASA",
+    "year": 1969,
+    "country": "United States",
+    "category": "Space"
+  },
+  {
+    "invention": "Mars Rover",
+    "inventor": "NASA",
+    "year": 1997,
+    "country": "United States",
+    "category": "Space"
+  },
+  {
+    "invention": "Washing Machine",
+    "inventor": "Alva Fisher",
+    "year": 1908,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Dishwasher",
+    "inventor": "Josephine Cochrane",
+    "year": 1886,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Vacuum Cleaner",
+    "inventor": "Hubert Cecil Booth",
+    "year": 1901,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Microwave Oven",
+    "inventor": "Percy Spencer",
+    "year": 1945,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Toaster",
+    "inventor": "Charles Strite",
+    "year": 1919,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Blender",
+    "inventor": "Stephen Poplawski",
+    "year": 1922,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Coffee Maker",
+    "inventor": "Melitta Bentz",
+    "year": 1908,
+    "country": "Germany",
+    "category": "Household"
+  },
+  {
+    "invention": "Can Opener",
+    "inventor": "Ezra Warner",
+    "year": 1858,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Corkscrew",
+    "inventor": "Samuel Henshall",
+    "year": 1795,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Fork",
+    "inventor": "Byzantine Empire",
+    "year": 1000,
+    "country": "Byzantine Empire",
+    "category": "Household"
+  },
+  {
+    "invention": "Scissors",
+    "inventor": "Ancient Egyptians",
+    "year": -1500,
+    "country": "Egypt",
+    "category": "Household"
+  },
+  {
+    "invention": "Eyeglasses",
+    "inventor": "Salvino D'Armate",
+    "year": 1284,
+    "country": "Italy",
+    "category": "Medical"
+  },
+  {
+    "invention": "Contact Lenses",
+    "inventor": "Adolf Gaston Eugen Fick",
+    "year": 1888,
+    "country": "Germany",
+    "category": "Medical"
+  },
+  {
+    "invention": "Braille",
+    "inventor": "Louis Braille",
+    "year": 1824,
+    "country": "France",
+    "category": "Communication"
+  },
+  {
+    "invention": "Sign Language",
+    "inventor": "Juan Pablo Bonet",
+    "year": 1620,
+    "country": "Spain",
+    "category": "Communication"
+  },
+  {
+    "invention": "Morse Code",
+    "inventor": "Samuel Morse",
+    "year": 1836,
+    "country": "United States",
+    "category": "Communication"
+  },
+  {
+    "invention": "Telegraph",
+    "inventor": "Samuel Morse",
+    "year": 1837,
+    "country": "United States",
+    "category": "Communication"
+  },
+  {
+    "invention": "Fax Machine",
+    "inventor": "Alexander Bain",
+    "year": 1843,
+    "country": "Scotland",
+    "category": "Communication"
+  },
+  {
+    "invention": "Photocopier",
+    "inventor": "Chester Carlson",
+    "year": 1938,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Calculator",
+    "inventor": "Blaise Pascal",
+    "year": 1642,
+    "country": "France",
+    "category": "Technology"
+  },
+  {
+    "invention": "Abacus",
+    "inventor": "Ancient Mesopotamians",
+    "year": -2700,
+    "country": "Mesopotamia",
+    "category": "Technology"
+  },
+  {
+    "invention": "Slide Rule",
+    "inventor": "William Oughtred",
+    "year": 1622,
+    "country": "England",
+    "category": "Technology"
+  },
+  {
+    "invention": "Ballpoint Pen",
+    "inventor": "László Bíró",
+    "year": 1938,
+    "country": "Hungary",
+    "category": "Household"
+  },
+  {
+    "invention": "Fountain Pen",
+    "inventor": "Lewis Waterman",
+    "year": 1884,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Pencil",
+    "inventor": "Conrad Gesner",
+    "year": 1565,
+    "country": "Switzerland",
+    "category": "Household"
+  },
+  {
+    "invention": "Eraser",
+    "inventor": "Edward Nairne",
+    "year": 1770,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Post-it Notes",
+    "inventor": "Spencer Silver and Art Fry",
+    "year": 1974,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Scotch Tape",
+    "inventor": "Richard Drew",
+    "year": 1930,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Stapler",
+    "inventor": "George McGill",
+    "year": 1879,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Paper Clip",
+    "inventor": "Johan Vaaler",
+    "year": 1899,
+    "country": "Norway",
+    "category": "Household"
+  },
+  {
+    "invention": "Rubber Band",
+    "inventor": "Stephen Perry",
+    "year": 1845,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Toilet Paper",
+    "inventor": "Joseph Gayetty",
+    "year": 1857,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Flush Toilet",
+    "inventor": "Thomas Crapper",
+    "year": 1880,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Toothbrush",
+    "inventor": "William Addis",
+    "year": 1780,
+    "country": "England",
+    "category": "Household"
+  },
+  {
+    "invention": "Toothpaste",
+    "inventor": "Ancient Egyptians",
+    "year": -5000,
+    "country": "Egypt",
+    "category": "Household"
+  },
+  {
+    "invention": "Soap",
+    "inventor": "Ancient Babylonians",
+    "year": -2800,
+    "country": "Babylon",
+    "category": "Household"
+  },
+  {
+    "invention": "Shampoo",
+    "inventor": "Sake Dean Mahomed",
+    "year": 1814,
+    "country": "India",
+    "category": "Household"
+  },
+  {
+    "invention": "Deodorant",
+    "inventor": "Edna Murphey",
+    "year": 1888,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Razor",
+    "inventor": "King Camp Gillette",
+    "year": 1901,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Hair Dryer",
+    "inventor": "Alexandre Godefroy",
+    "year": 1890,
+    "country": "France",
+    "category": "Household"
+  },
+  {
+    "invention": "Curling Iron",
+    "inventor": "Marcel Grateau",
+    "year": 1872,
+    "country": "France",
+    "category": "Household"
+  },
+  {
+    "invention": "Sunglasses",
+    "inventor": "James Ayscough",
+    "year": 1752,
+    "country": "England",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Umbrella",
+    "inventor": "Ancient Chinese",
+    "year": -1000,
+    "country": "China",
+    "category": "Household"
+  },
+  {
+    "invention": "Raincoat",
+    "inventor": "Charles Macintosh",
+    "year": 1824,
+    "country": "Scotland",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Blue Jeans",
+    "inventor": "Levi Strauss",
+    "year": 1873,
+    "country": "United States",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Sneakers",
+    "inventor": "Charles Goodyear",
+    "year": 1839,
+    "country": "United States",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Bra",
+    "inventor": "Mary Phelps Jacob",
+    "year": 1914,
+    "country": "United States",
+    "category": "Fashion"
+  },
+  {
+    "invention": "Safety Razor",
+    "inventor": "King Camp Gillette",
+    "year": 1904,
+    "country": "United States",
+    "category": "Household"
+  },
+  {
+    "invention": "Band-Aid",
+    "inventor": "Earle Dickson",
+    "year": 1920,
+    "country": "United States",
+    "category": "Medical"
+  },
+  {
+    "invention": "Antiseptic",
+    "inventor": "Joseph Lister",
+    "year": 1865,
+    "country": "England",
+    "category": "Medical"
+  },
+  {
+    "invention": "Blood Transfusion",
+    "inventor": "Karl Landsteiner",
+    "year": 1901,
+    "country": "Austria",
+    "category": "Medical"
+  },
+  {
+    "invention": "Artificial Heart",
+    "inventor": "Paul Winchell",
+    "year": 1963,
+    "country": "United States",
+    "category": "Medical"
+  },
+  {
+    "invention": "Dialysis Machine",
+    "inventor": "Willem Kolff",
+    "year": 1943,
+    "country": "Netherlands",
+    "category": "Medical"
+  },
+  {
+    "invention": "CT Scanner",
+    "inventor": "Godfrey Hounsfield",
+    "year": 1971,
+    "country": "England",
+    "category": "Medical"
+  },
+  {
+    "invention": "Ultrasound",
+    "inventor": "Ian Donald",
+    "year": 1958,
+    "country": "Scotland",
+    "category": "Medical"
+  },
+  {
+    "invention": "EKG Machine",
+    "inventor": "Willem Einthoven",
+    "year": 1903,
+    "country": "Netherlands",
+    "category": "Medical"
+  },
+  {
+    "invention": "Hearing Aid",
+    "inventor": "Miller Reese Hutchison",
+    "year": 1898,
+    "country": "United States",
+    "category": "Medical"
+  },
+  {
+    "invention": "Wheelchair",
+    "inventor": "Stephen Farfler",
+    "year": 1655,
+    "country": "Germany",
+    "category": "Medical"
+  },
+  {
+    "invention": "Prosthetic Limb",
+    "inventor": "Ancient Egyptians",
+    "year": -3000,
+    "country": "Egypt",
+    "category": "Medical"
+  },
+  {
+    "invention": "Artificial Intelligence",
+    "inventor": "John McCarthy",
+    "year": 1956,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Machine Learning",
+    "inventor": "Arthur Samuel",
+    "year": 1959,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "3D Printer",
+    "inventor": "Chuck Hull",
+    "year": 1984,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Barcode",
+    "inventor": "Norman Joseph Woodland and Bernard Silver",
+    "year": 1952,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "QR Code",
+    "inventor": "Masahiro Hara",
+    "year": 1994,
+    "country": "Japan",
+    "category": "Technology"
+  },
+  {
+    "invention": "ATM Machine",
+    "inventor": "John Shepherd-Barron",
+    "year": 1967,
+    "country": "Scotland",
+    "category": "Technology"
+  },
+  {
+    "invention": "Credit Card",
+    "inventor": "Frank McNamara",
+    "year": 1950,
+    "country": "United States",
+    "category": "Finance"
+  },
+  {
+    "invention": "Vending Machine",
+    "inventor": "Hero of Alexandria",
+    "year": 215,
+    "country": "Egypt",
+    "category": "Technology"
+  },
+  {
+    "invention": "Traffic Light",
+    "inventor": "Garrett Morgan",
+    "year": 1923,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Parking Meter",
+    "inventor": "Carl Magee",
+    "year": 1935,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Escalator",
+    "inventor": "Jesse Reno",
+    "year": 1892,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Parachute",
+    "inventor": "Louis-Sébastien Lenormand",
+    "year": 1783,
+    "country": "France",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Hot Air Balloon",
+    "inventor": "Montgolfier Brothers",
+    "year": 1783,
+    "country": "France",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Sailboat",
+    "inventor": "Ancient Egyptians",
+    "year": -3200,
+    "country": "Egypt",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Steamboat",
+    "inventor": "Robert Fulton",
+    "year": 1807,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Diesel Engine",
+    "inventor": "Rudolf Diesel",
+    "year": 1893,
+    "country": "Germany",
+    "category": "Industrial"
+  },
+  {
+    "invention": "Electric Motor",
+    "inventor": "Michael Faraday",
+    "year": 1821,
+    "country": "England",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Generator",
+    "inventor": "Michael Faraday",
+    "year": 1831,
+    "country": "England",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Transformer",
+    "inventor": "William Stanley Jr.",
+    "year": 1885,
+    "country": "United States",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Alternating Current",
+    "inventor": "Nikola Tesla",
+    "year": 1887,
+    "country": "United States",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Tesla Coil",
+    "inventor": "Nikola Tesla",
+    "year": 1891,
+    "country": "United States",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Electric Battery",
+    "inventor": "Alessandro Volta",
+    "year": 1800,
+    "country": "Italy",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Lithium-ion Battery",
+    "inventor": "John Goodenough",
+    "year": 1980,
+    "country": "United States",
+    "category": "Electrical"
+  },
+  {
+    "invention": "Fuel Cell",
+    "inventor": "William Grove",
+    "year": 1839,
+    "country": "Wales",
+    "category": "Energy"
+  },
+  {
+    "invention": "Wind Turbine",
+    "inventor": "James Blyth",
+    "year": 1887,
+    "country": "Scotland",
+    "category": "Energy"
+  },
+  {
+    "invention": "Hydroelectric Dam",
+    "inventor": "William Armstrong",
+    "year": 1878,
+    "country": "England",
+    "category": "Energy"
+  },
+  {
+    "invention": "Geothermal Energy",
+    "inventor": "Prince Piero Ginori Conti",
+    "year": 1904,
+    "country": "Italy",
+    "category": "Energy"
+  },
+  {
+    "invention": "Tidal Energy",
+    "inventor": "Various",
+    "year": 1966,
+    "country": "France",
+    "category": "Energy"
+  },
+  {
+    "invention": "Biofuel",
+    "inventor": "Rudolf Diesel",
+    "year": 1900,
+    "country": "Germany",
+    "category": "Energy"
+  },
+  {
+    "invention": "Catalytic Converter",
+    "inventor": "Eugene Houdry",
+    "year": 1950,
+    "country": "France",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Airbag",
+    "inventor": "John Hetrick",
+    "year": 1952,
+    "country": "United States",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Seatbelt",
+    "inventor": "Nils Bohlin",
+    "year": 1959,
+    "country": "Sweden",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Anti-lock Brakes",
+    "inventor": "Gabriel Voisin",
+    "year": 1929,
+    "country": "France",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Cruise Control",
+    "inventor": "Ralph Teetor",
+    "year": 1948,
+    "country": "United States",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Electric Car",
+    "inventor": "Thomas Parker",
+    "year": 1884,
+    "country": "England",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Hybrid Car",
+    "inventor": "Ferdinand Porsche",
+    "year": 1900,
+    "country": "Austria",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Self-driving Car",
+    "inventor": "Google (Waymo)",
+    "year": 2009,
+    "country": "United States",
+    "category": "Automotive"
+  },
+  {
+    "invention": "Drone",
+    "inventor": "Abraham Karem",
+    "year": 1985,
+    "country": "Israel/United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Quadcopter",
+    "inventor": "Various",
+    "year": 2006,
+    "country": "Multiple",
+    "category": "Technology"
+  },
+  {
+    "invention": "Segway",
+    "inventor": "Dean Kamen",
+    "year": 2001,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Hoverboard",
+    "inventor": "Shane Chen",
+    "year": 2013,
+    "country": "China/United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Electric Scooter",
+    "inventor": "Peugeot",
+    "year": 1996,
+    "country": "France",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Maglev Train",
+    "inventor": "James Powell and Gordon Danby",
+    "year": 1966,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Bullet Train",
+    "inventor": "Japan National Railways",
+    "year": 1964,
+    "country": "Japan",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Monorail",
+    "inventor": "Various",
+    "year": 1820,
+    "country": "Russia",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Cable Car",
+    "inventor": "Andrew Smith Hallidie",
+    "year": 1873,
+    "country": "United States",
+    "category": "Transportation"
+  },
+  {
+    "invention": "Ferris Wheel",
+    "inventor": "George Washington Gale Ferris Jr.",
+    "year": 1893,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Roller Coaster",
+    "inventor": "LaMarcus Adna Thompson",
+    "year": 1884,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Carousel",
+    "inventor": "Unknown",
+    "year": 1600,
+    "country": "Europe",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Pinball Machine",
+    "inventor": "Montague Redgrave",
+    "year": 1871,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Slot Machine",
+    "inventor": "Charles Fey",
+    "year": 1895,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Jukebox",
+    "inventor": "Louis Glass",
+    "year": 1889,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Piano",
+    "inventor": "Bartolomeo Cristofori",
+    "year": 1700,
+    "country": "Italy",
+    "category": "Music"
+  },
+  {
+    "invention": "Guitar",
+    "inventor": "Antonio Torres Jurado",
+    "year": 1850,
+    "country": "Spain",
+    "category": "Music"
+  },
+  {
+    "invention": "Electric Guitar",
+    "inventor": "George Beauchamp",
+    "year": 1931,
+    "country": "United States",
+    "category": "Music"
+  },
+  {
+    "invention": "Saxophone",
+    "inventor": "Adolphe Sax",
+    "year": 1846,
+    "country": "Belgium",
+    "category": "Music"
+  },
+  {
+    "invention": "Harmonica",
+    "inventor": "Christian Friedrich Ludwig Buschmann",
+    "year": 1821,
+    "country": "Germany",
+    "category": "Music"
+  },
+  {
+    "invention": "Accordion",
+    "inventor": "Cyrill Demian",
+    "year": 1829,
+    "country": "Austria",
+    "category": "Music"
+  },
+  {
+    "invention": "Synthesizer",
+    "inventor": "Robert Moog",
+    "year": 1964,
+    "country": "United States",
+    "category": "Music"
+  },
+  {
+    "invention": "Metronome",
+    "inventor": "Johann Maelzel",
+    "year": 1815,
+    "country": "Germany",
+    "category": "Music"
+  },
+  {
+    "invention": "Tuning Fork",
+    "inventor": "John Shore",
+    "year": 1711,
+    "country": "England",
+    "category": "Music"
+  },
+  {
+    "invention": "Vinyl Record",
+    "inventor": "Emile Berliner",
+    "year": 1887,
+    "country": "Germany/United States",
+    "category": "Music"
+  },
+  {
+    "invention": "Cassette Tape",
+    "inventor": "Philips",
+    "year": 1963,
+    "country": "Netherlands",
+    "category": "Music"
+  },
+  {
+    "invention": "Compact Disc",
+    "inventor": "Philips and Sony",
+    "year": 1982,
+    "country": "Netherlands/Japan",
+    "category": "Music"
+  },
+  {
+    "invention": "Walkman",
+    "inventor": "Sony",
+    "year": 1979,
+    "country": "Japan",
+    "category": "Music"
+  },
+  {
+    "invention": "iPod",
+    "inventor": "Apple",
+    "year": 2001,
+    "country": "United States",
+    "category": "Music"
+  },
+  {
+    "invention": "Spotify",
+    "inventor": "Daniel Ek and Martin Lorentzon",
+    "year": 2006,
+    "country": "Sweden",
+    "category": "Music"
+  },
+  {
+    "invention": "Podcast",
+    "inventor": "Adam Curry and Dave Winer",
+    "year": 2004,
+    "country": "United States",
+    "category": "Media"
+  },
+  {
+    "invention": "Netflix",
+    "inventor": "Reed Hastings and Marc Randolph",
+    "year": 1997,
+    "country": "United States",
+    "category": "Entertainment"
+  },
+  {
+    "invention": "Streaming Video",
+    "inventor": "RealNetworks",
+    "year": 1995,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Virtual Reality Headset",
+    "inventor": "Morton Heilig",
+    "year": 1960,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Augmented Reality",
+    "inventor": "Ivan Sutherland",
+    "year": 1968,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Hologram",
+    "inventor": "Dennis Gabor",
+    "year": 1947,
+    "country": "Hungary",
+    "category": "Technology"
+  },
+  {
+    "invention": "Biometric Scanner",
+    "inventor": "John Daugman",
+    "year": 1994,
+    "country": "United States",
+    "category": "Security"
+  },
+  {
+    "invention": "Fingerprint Recognition",
+    "inventor": "Juan Vucetich",
+    "year": 1892,
+    "country": "Argentina",
+    "category": "Security"
+  },
+  {
+    "invention": "Facial Recognition",
+    "inventor": "Woodrow Wilson Bledsoe",
+    "year": 1960,
+    "country": "United States",
+    "category": "Security"
+  },
+  {
+    "invention": "Encryption",
+    "inventor": "Julius Caesar",
+    "year": -100,
+    "country": "Rome",
+    "category": "Security"
+  },
+  {
+    "invention": "Public Key Cryptography",
+    "inventor": "Whitfield Diffie and Martin Hellman",
+    "year": 1976,
+    "country": "United States",
+    "category": "Security"
+  },
+  {
+    "invention": "Blockchain",
+    "inventor": "Satoshi Nakamoto",
+    "year": 2008,
+    "country": "Unknown",
+    "category": "Technology"
+  },
+  {
+    "invention": "Bitcoin",
+    "inventor": "Satoshi Nakamoto",
+    "year": 2009,
+    "country": "Unknown",
+    "category": "Finance"
+  },
+  {
+    "invention": "Cryptocurrency",
+    "inventor": "David Chaum",
+    "year": 1983,
+    "country": "United States",
+    "category": "Finance"
+  },
+  {
+    "invention": "Quantum Computer",
+    "inventor": "Paul Benioff",
+    "year": 1980,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Nanotechnology",
+    "inventor": "Kim Eric Drexler",
+    "year": 1986,
+    "country": "United States",
+    "category": "Technology"
+  },
+  {
+    "invention": "Carbon Fiber",
+    "inventor": "Roger Bacon",
+    "year": 1958,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Kevlar",
+    "inventor": "Stephanie Kwolek",
+    "year": 1965,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Teflon",
+    "inventor": "Roy Plunkett",
+    "year": 1938,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Fiberglass",
+    "inventor": "Russell Games Slayter",
+    "year": 1938,
+    "country": "United States",
+    "category": "Material"
+  },
+  {
+    "invention": "Concrete",
+    "inventor": "Ancient Romans",
+    "year": -600,
+    "country": "Rome",
+    "category": "Material"
+  },
+  {
+    "invention": "Reinforced Concrete",
+    "inventor": "Joseph Monier",
+    "year": 1867,
+    "country": "France",
+    "category": "Material"
+  },
+  {
+    "invention": "Glass",
+    "inventor": "Ancient Mesopotamians",
+    "year": -3500,
+    "country": "Mesopotamia",
+    "category": "Material"
+  },
+  {
+    "invention": "Stained Glass",
+    "inventor": "Ancient Egyptians",
+    "year": -3000,
+    "country": "Egypt",
+    "category": "Material"
+  },
+  {
+    "invention": "Safety Glass",
+    "inventor": "Edouard Benedictus",
+    "year": 1903,
+    "country": "France",
+    "category": "Material"
+  },
+  {
+    "invention": "Bulletproof Glass",
+    "inventor": "Edouard Benedictus",
+    "year": 1909,
+    "country": "France",
+    "category": "Material"
+  },
+  {
+    "invention": "Aluminum",
+    "inventor": "Hans Christian Ørsted",
+    "year": 1825,
+    "country": "Denmark",
+    "category": "Material"
+  },
+  {
+    "invention": "Stainless Steel",
+    "inventor": "Harry Brearley",
+    "year": 1913,
+    "country": "England",
+    "category": "Material"
+  },
+  {
+    "invention": "Cast Iron",
+    "inventor": "Ancient Chinese",
+    "year": -500,
+    "country": "China",
+    "category": "Material"
+  },
+  {
+    "invention": "Bronze",
+    "inventor": "Ancient Mesopotamians",
+    "year": -3300,
+    "country": "Mesopotamia",
+    "category": "Material"
+  },
+  {
+    "invention": "Iron Smelting",
+    "inventor": "Hittites",
+    "year": -1200,
+    "country": "Anatolia",
+    "category": "Material"
+  },
+  {
+    "invention": "Agriculture",
+    "inventor": "Neolithic People",
+    "year": -10000,
+    "country": "Fertile Crescent",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Plow",
+    "inventor": "Ancient Mesopotamians",
+    "year": -3000,
+    "country": "Mesopotamia",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Irrigation",
+    "inventor": "Ancient Mesopotamians",
+    "year": -6000,
+    "country": "Mesopotamia",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Crop Rotation",
+    "inventor": "Ancient Romans",
+    "year": -600,
+    "country": "Rome",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Tractor",
+    "inventor": "John Froelich",
+    "year": 1892,
+    "country": "United States",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Combine Harvester",
+    "inventor": "Hiram Moore",
+    "year": 1834,
+    "country": "United States",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Cotton Gin",
+    "inventor": "Eli Whitney",
+    "year": 1793,
+    "country": "United States",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Reaper",
+    "inventor": "Cyrus McCormick",
+    "year": 1831,
+    "country": "United States",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Seed Drill",
+    "inventor": "Jethro Tull",
+    "year": 1701,
+    "country": "England",
+    "category": "Agriculture"
+  },
+  {
+    "invention": "Pasteurization",
+    "inventor": "Louis Pasteur",
+    "year": 1864,
+    "country": "France",
+    "category": "Food"
+  },
+  {
+    "invention": "Canning",
+    "inventor": "Nicolas Appert",
+    "year": 1809,
+    "country": "France",
+    "category": "Food"
+  },
+  {
+    "invention": "Freeze Drying",
+    "inventor": "Jacques-Arsène d'Arsonval",
+    "year": 1906,
+    "country": "France",
+    "category": "Food"
+  }
+]
